@@ -7,6 +7,6 @@ Hi, my name is Norbert, and I'm passionate about Web Development, I graduated fr
 
 **languages and tools:**
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/HTML/HTML.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/CSS/CSS.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/SQL/SQL.png"></code>
+<code><img height="20" src="https://github.com/github/explore/raw/main/topics/html/html.png"></code>
+<code><img height="20" src="https://github.com/github/explore/raw/main/topics/css/css.png"></code>
+<code><img height="20" src="https://github.com/github/explore/raw/main/topics/sql/sql.png"></code>
